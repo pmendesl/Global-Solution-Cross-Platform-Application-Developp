@@ -212,22 +212,16 @@ Os dados são automaticamente carregados ao iniciar o app e salvos a cada atuali
 
 ## 👥 Integrantes do Projeto
 
-**Nome Completo**: [Adicionar nome completo]
-**RM**: [Adicionar RM]
+**Nome Completo**: [Leonardo Bacelar, Pedro Mendes, Alexabdre Campao]
+**RM**: [565564,562242,563346]
 
-## 📅 Data de Entrega
 
-**Prazo**: 09/06/2026 às 23h55
-**Local de Entrega**: Portal FIAP
 
-## 📄 Licença
 
-Este projeto foi desenvolvido como trabalho acadêmico e é fornecido como está.
 
-## 🤝 Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para fazer fork do projeto e enviar pull requests.
 
----
 
-**Desenvolvido com ❤️ para a disciplina Cross-Platform Application Development**
+
+
+
