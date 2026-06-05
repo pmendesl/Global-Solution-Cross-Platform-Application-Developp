@@ -1,5 +1,10 @@
 # Central de Monitoramento de Missões Espaciais
 
+## Integrantes:
+562242 - Pedro Gabriel Mendes Soares Leite
+565564 - Leonardo Augusto Bacelar da Cunha
+563346 - Alexandre Campão Fernandes Schneider Bertini
+
 Um aplicativo mobile desenvolvido em **React Native + Expo** que simula uma central de monitoramento de missões espaciais em tempo real. A aplicação oferece uma interface temática futurista inspirada em centros de controle de missão reais, permitindo monitorar sensores, gerenciar alertas e atualizar dados de forma intuitiva.
 
 ## 📋 Descrição do Projeto
